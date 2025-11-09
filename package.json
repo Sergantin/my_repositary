@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "**Readme**",
+  "homepage": "https://github.com/Sergantin/my_repositary#readme",
+  "bugs": {
+    "url": "https://github.com/Sergantin/my_repositary/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergantin/my_repositary.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "supports-color": "^10.2.2"
+  }
+}
